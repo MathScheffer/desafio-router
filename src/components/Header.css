@@ -1,0 +1,21 @@
+.Header{
+  margin-top: 2rem;
+}
+.active{
+  background: #D8D7D8 !important
+}
+.navigation  {
+  display: flex;
+}
+
+.navButton {
+  padding: 10px 25px;
+  background: #edeced;
+  border-radius: 5px;
+  text-decoration: none;
+  color: black;
+}
+
+.navButton:last-child {
+  margin: 0 1rem;
+}

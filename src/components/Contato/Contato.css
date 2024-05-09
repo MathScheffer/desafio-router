@@ -1,0 +1,8 @@
+.contato-info span{
+  display: block;
+  height: 17px;
+  width: 18px;
+  float: left;
+  border-bottom: 2px solid #d9d8da;
+  margin-right: 6px;
+}

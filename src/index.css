@@ -1,0 +1,24 @@
+
+.card-image{
+  width: 100%;
+  border-radius: 8px;
+  box-shadow:  6px 7px 8px rgba(0, 0, 0, 0.2)
+ } 
+
+ .descricao-container img{
+  width: 40%;
+}
+
+.descricao-container{
+  display: flex;
+  justify-content: space-between;
+  font-family: cursive;
+}
+
+.descricao{
+  width: 55%;
+}
+
+.descricao p:first-child{
+  font-size: 1.2rem;
+}
